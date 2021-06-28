@@ -18,7 +18,9 @@
 
 到此你已经进入了邮箱，你可以通过登录自己的邮箱发送超链接上网
 
-Tips：你需要开通pop3/stmp服务 密码是授权码
+Tips：你需要开通pop3/smtp服务 密码是授权码
+
+![](https://ftp.bmp.ovh/imgs/2021/06/703c4769ba15f515.jpeg)
 
 # Testing 
  
