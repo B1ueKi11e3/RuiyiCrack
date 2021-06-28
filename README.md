@@ -24,4 +24,4 @@ Tips：你需要开通pop3/smtp服务 密码是授权码
 
 # Testing 
  
-+ 内网Dns劫持替换我的书包apk列表（testing....
++ ～～内网Dns劫持替换我的书包apk列表～～（不幸的，少年派有签名认证，我们无法bypass
