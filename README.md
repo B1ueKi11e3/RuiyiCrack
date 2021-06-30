@@ -1,10 +1,10 @@
 # RuiyiCrack
 🔔睿易少年派的各种破解/上网姿势分享🔔
-</br>
+</br> </br>
 欢迎各路受害者进群交流技术📣
-</br>
+</br> </br>
 神秘代码：875322562
-</br>
+</br> </br>
 
 # Date：2021-6-28
 
@@ -21,9 +21,9 @@
 🔔：因为联想邮箱是第三方客户端，故你无法使用qq邮箱+qq密码的组合登录，你需要开通pop3/smtp服务，密码是授权码
 并在第三方客户端中手动输入接收/发送服务器地址。
 
-Pop:pop.qq.com
-smtp:smtp.qq.com 
-协议：无
+Pop:pop.qq.com </br>
+smtp:smtp.qq.com </br>
+协议：无</br>
 
 ![](https://ftp.bmp.ovh/imgs/2021/06/703c4769ba15f515.jpeg)
 
