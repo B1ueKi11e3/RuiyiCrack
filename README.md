@@ -21,6 +21,10 @@
 🔔：因为联想邮箱是第三方客户端，故你无法使用qq邮箱+qq密码的组合登录，你需要开通pop3/smtp服务，密码是授权码
 并在第三方客户端中手动输入接收/发送服务器地址。
 
+Pop:pop.qq.com
+smtp:smtp.qq.com 
+协议：无
+
 ![](https://ftp.bmp.ovh/imgs/2021/06/703c4769ba15f515.jpeg)
 
 ## 极端手段
