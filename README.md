@@ -55,3 +55,6 @@ smtp:smtp.qq.com </br>
 # Testing 
  
 + ~~内网Dns劫持替换我的书包apk列表~~（不幸的，少年派有签名认证，我们无法bypass
+
+# Issues
+如果您有任何问题，新建issues
