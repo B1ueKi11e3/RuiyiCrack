@@ -58,5 +58,10 @@ smtp:smtp.qq.com </br>
  
 + ~~内网Dns劫持替换我的书包apk列表~~（不幸的，少年派有签名认证，我们无法bypass
 
++ 我们正在对https://github.com/dump-automaton/MyiPad-Plugin/ 项目进行测试，稍安勿躁....
+
+# Issues
+如果您有任何问题，新建issues
+
 # Issues
 如果您有任何问题，新建issues
