@@ -26,6 +26,8 @@ Update：您也可以选择使用imap服务，无需手动设置，直接输入�
 Pop:pop.qq.com </br>
 smtp:smtp.qq.com </br>
 
+PS:有User反馈使用Outlook邮箱可以直接登录，无需设置
+
 
 ![](https://ftp.bmp.ovh/imgs/2021/06/703c4769ba15f515.jpeg)
 
